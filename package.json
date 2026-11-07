@@ -2,8 +2,8 @@
   "name": "api-ollama",
   "version": "1.0.0",
   "description": "",
-  "main": "index.ts",
-  "bin":{"cli-ollama": "./index.ts"},
+  "main": "src/index.ts",
+  "bin":{"cli-ollama": "./src/index.ts"},
   "scripts": {
     "start": "node ."
   },
